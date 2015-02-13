@@ -2,7 +2,7 @@
 
 ## Currently Supported Interactions
 ### The user can pause the grid.
-   This interaction is mostly allows for examining the grid closely without it changing. It helps the user undestand where each cluster is and they can also learn to anticipate certain clusters to stabilize and others to grow out of control.
+   This interaction is mostly allows for examining the grid closely without it changing. It helps the user understand where each cluster is and they can also learn to anticipate certain clusters to stabilize and others to grow out of control.
    
 ### The user can create a cell by clicking on an empty space on the grid.
   
@@ -27,7 +27,7 @@ As the person who created the visualization, I know every part of it. A user who
 ### Time/Cell Count Graph
 A great way to help the user track the changes that are on the grid. It conveys a lot of information, such as the elapsed time, the amount of cells on the grid and eventually, the realization that the cell population growth is exponential. It could be useful to add a button that either reveals or hides the graph based on the user's needs.
 ### Color Change
-Taking a second fresh look at my simulation made me realize that the black and white combination makes it very hard to see the whole grid in a meaningful way because it decieves the eye. Surely there is a better pair of colors that would not create an eye illusion and fit more with the color scheme of the program. The only concern is to exclude color pairs that may appear the same for the color blind. Orange and blue would be my pick.
+Taking a second fresh look at my simulation made me realize that the black and white combination makes it very hard to see the whole grid in a meaningful way because it deceives the eye. Surely there is a better pair of colors that would not create an eye illusion and fit more with the color scheme of the program. The only concern is to exclude color pairs that may appear the same for the color blind. Orange and blue would be my pick.
 ### Grid Size
 Giving the user the option to choose the size of the grid could be a great addition, as it allows them to adjust the scale of the experiment. This could be done by using a slider with several size settings to choose from, or by prompting the user to choose one of several buttons with predetermined grid sizes before the simulation starts and adjusting accordingly.
 ### Randomization Settings
