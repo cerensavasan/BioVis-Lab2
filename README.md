@@ -35,6 +35,8 @@ If the user was allowed to pick the frequency of cells that are generated at ini
 
 ## Prototypes
 
+### Beginning phase of the simulation:
 ![Beginning phase of simulation](http://i.imgur.com/Fqrxsm9.png)
 
+### A later phase of the simulation:
 ![A later phase of simulation](http://i.imgur.com/PUhdVFg.png)
