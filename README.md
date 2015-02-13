@@ -1,4 +1,6 @@
 # BioVis-Lab3
+## Repository of Simulation
+[GitHub](https://github.com/cerensavasan/BioVis-Assignment1.git)
 
 ## Currently Supported Interactions
 ### The user can pause the grid.
