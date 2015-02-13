@@ -33,3 +33,8 @@ Giving the user the option to choose the size of the grid could be a great addit
 ### Randomization Settings
 If the user was allowed to pick the frequency of cells that are generated at initialization, it could affect the outcome of the experiment and the learning process of the user. The ability to experiment with different population sizes could also create a data set that the user is looking to observe.
 
+## Prototypes
+
+![Beginning phase of simulation](http://i.imgur.com/Fqrxsm9.png)
+
+![A later phase of simulation](http://i.imgur.com/PUhdVFg.png)
