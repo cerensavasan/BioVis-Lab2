@@ -24,4 +24,4 @@
 ### Key/Mouse Guide
 There should be a visible table on the visualization that has the key/mouse instructions on how to interact with the grid.
 As the person who created the visualization, I know every part of it. A user who has never seen it before can not anticipate any interaction without proper documentation and guidance. The biggest change I would make is to inform the user on how to interact with the grid by giving them that information. I would even suggest the creation of a main page where one can first read about what the visualization is depicting and a guide on how to use the functionality effectively. The guide would cover the basics like what each key or mouse button does and explain how they can be used together. An example is to clear the grid and then create a few clusters while paused to see the outcome. I came across this problem when I showed a friend proudly what I had accomplished and they had no understanding of what they were even looking at and did not know it was interactive.
-### A Time/Cell Count Graph
+### Time/Cell Count Graph
